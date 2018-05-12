@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+#life {
+    color: #8BC34A;
+    font-size: 40px;
+    font-style: italic;
+}
